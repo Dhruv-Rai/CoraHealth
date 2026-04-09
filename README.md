@@ -1,8 +1,8 @@
-# 🌿 ARTIKA.life
+# 🌿 Cora Health 
 
 > **One Platform. Complete Family Health Management.**
 
-ARTIKA.life is a smart, family-focused health management platform designed to simplify everyday healthcare. It combines doctor discovery, AI guidance, growth tracking, vaccination management, document storage, reminders, and emergency support — all in one secure and user-friendly system.
+Cora Health is a smart, family-focused health management platform designed to simplify everyday healthcare. It combines doctor discovery, AI guidance, growth tracking, vaccination management, document storage, reminders, and emergency support — all in one secure and user-friendly system.
 
 ---
 
@@ -90,11 +90,11 @@ Quick-access emergency support with fast doctor discovery and contact assistance
 
 ## 🎯 Project Objective
 
-ARTIKA.life aims to bring preventive, organized, and accessible healthcare management into one unified digital platform for families.
+Cora Health aims to bring preventive, organized, and accessible healthcare management into one unified digital platform for families.
 
 ---
 
 ## ⚠️ Disclaimer
 
-ARTIKA.life provides informational and tracking tools only. It does not replace professional medical consultation.
+Cora Health provides informational and tracking tools only. It does not replace professional medical consultation.
 
