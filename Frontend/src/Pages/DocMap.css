@@ -1,0 +1,89 @@
+
+.find-doctor-container {
+  padding: 20px;
+  text-align: center;
+}
+
+
+.search-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 20px;
+  margin-top: 100px;
+  color: white;
+}
+.main{
+  background: black;
+}
+select,
+input,
+.click {
+  padding: 10px;
+  width: 200px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 16px;
+}
+
+.click {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.click:hover {
+  background-color: #0056b3;
+}
+#map {
+  width: 100%;
+  height: 80vh; /* 👈 fill 70% of viewport height */
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  margin-top: 20px;
+  border:2px solid rgb(254, 254, 254)
+}
+
+#map iframe {
+  width: 100%;
+  height: 100%; /* 👈 make iframe fill parent height */
+  border: none;
+  border-radius: 10px;
+}
+
+@media (max-width: 768px) {
+  #map {
+    height: 50vh; /* smaller height for mobile screens */
+  }
+}
+
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .search-section {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  select,
+  input,
+  button {
+    width: 90%;
+  }
+
+  iframe {
+    height: 300px;
+  }
+}
+.cpr{
+  width: 100%;
+  height: 1%;
+  background:white;
+  color: black;
+  text-align: center;
+}

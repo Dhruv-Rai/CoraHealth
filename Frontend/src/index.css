@@ -1,0 +1,38 @@
+body {
+  background: black;
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.page {
+  position: relative;
+  min-height: 100vh;
+  width: 100%;
+  color: white;
+  background: black;
+}
+
+.home-containerpage{
+  position: relative;
+  min-height: auto;
+  width: 100%;
+  overflow: hidden;
+  color: white;
+  background: black;
+}
+
+ /* font-family: "Federant", serif;
+  font-weight: 400;
+  font-style: normal; */
